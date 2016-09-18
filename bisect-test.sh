@@ -1,5 +1,5 @@
 #/bin/bash
 
-WHAT="hello?"
+WHAT="hola"
 
 echo "not ok :("
