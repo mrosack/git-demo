@@ -2,4 +2,4 @@
 
 WHAT="hello?"
 
-echo "ok"
+echo "not ok :("
